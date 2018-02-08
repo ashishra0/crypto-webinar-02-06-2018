@@ -13,6 +13,7 @@ To ensure that you are ready to code along, please follow the steps below:
 1. Clone this repo somewhere on your machine.
 2. Install Node.js and npm by going [here](https://nodejs.org/dist/v8.9.4/node-v8.9.4.pkg) and double-clicking the downloaded .pkg file to install.
 3. Install the following dependencies by running the following commands in Terminal:
+
 **Truffle:**
 
 `npm install -g truffle`
