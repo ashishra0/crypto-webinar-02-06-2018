@@ -2,9 +2,9 @@
 
 [![build your own cryptocurrency](https://i.imgur.com/PxIK0qO.png)](https://zoom.us/webinar/register/WN_sON3e3jORtOVOaSy2nnOjw)
 
-On Friday, February 9 at 1 PM PST, Caleb Stultz from Devslopes will be hosting a free live webinar to teach you how to build your very own Ethereum-based cryptocurrency. If you want to dive into the world of blockchain development, this is the webinar for you. By the end of this webinar, you will have built your very own basic cryptocurrency token that you could give or even sell to friends or family in exchange for Ethereum. A basic understanding of programming is helpful for viewers but if you've never seen code before, check us out [Devslopes.com](www.devslopes.com).
+On Friday, February 9 at 1 PM PST, Caleb Stultz from Devslopes hosted a free live webinar to teach how to build your very own Ethereum-based cryptocurrency. If you want to dive into the world of blockchain development, this is the webinar for you. By the end of this webinar, you will have built your very own basic cryptocurrency token that you could give or even sell to friends or family in exchange for Ethereum. A basic understanding of programming is helpful for viewers but if you've never seen code before, check us out [Devslopes.com](www.devslopes.com).
 
-**Sign up for this webinar at:** [https://zoom.us/webinar/register/WN_sON3e3jORtOVOaSy2nnOjw](https://zoom.us/webinar/register/WN_sON3e3jORtOVOaSy2nnOjw)
+**Catch the replay at:** [https://youtu.be/JlDssMOF7UQ](https://youtu.be/JlDssMOF7UQ)
 
 **Overview of Webinar:**
 * ✋ Overview of Frontend – WebPack from Truffle Box & JS/HTML/CSS (3 minutes)
